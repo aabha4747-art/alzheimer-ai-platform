@@ -1,10 +1,10 @@
-# 🧠 Alzheimer AI Platform
+# Alzheimer AI Platform
 
 An AI-powered web application that assists in the early prediction of Alzheimer's disease using Machine Learning. The platform provides a simple, intuitive interface that enables users to enter patient information and receive predictive insights, demonstrating the potential of Artificial Intelligence in healthcare.
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 Alzheimer's disease is one of the leading causes of dementia worldwide. Early detection can significantly improve treatment planning and patient care.
 
@@ -14,7 +14,7 @@ This project demonstrates how AI can be integrated into digital healthcare solut
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Predict Alzheimer's disease using Machine Learning.
 - Build a modern and responsive healthcare web application.
@@ -24,7 +24,7 @@ This project demonstrates how AI can be integrated into digital healthcare solut
 
 ---
 
-# ✨ Features
+# Features
 
 - 🧠 AI-powered Alzheimer's prediction
 - 📋 Simple patient data input
@@ -35,7 +35,7 @@ This project demonstrates how AI can be integrated into digital healthcare solut
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```
                 User
@@ -58,7 +58,7 @@ This project demonstrates how AI can be integrated into digital healthcare solut
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 ## Frontend
 
@@ -84,7 +84,7 @@ This project demonstrates how AI can be integrated into digital healthcare solut
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 alzheimer-ai-platform/
@@ -105,7 +105,7 @@ alzheimer-ai-platform/
 
 ---
 
-# 🚀 Getting Started
+# Getting Started
 
 ## Clone the Repository
 
@@ -145,7 +145,7 @@ http://localhost:5173
 
 ---
 
-# 📊 Workflow
+# Workflow
 
 1. Open the web application.
 2. Enter the required patient information.
@@ -156,7 +156,7 @@ http://localhost:5173
 
 ---
 
-# 💡 Future Enhancements
+# Future Enhancements
 
 - User Login & Authentication
 - Electronic Health Record (EHR) Integration
@@ -171,7 +171,7 @@ http://localhost:5173
 
 ---
 
-# 🎯 Potential Applications
+# Potential Applications
 
 - Hospitals
 - Clinics
@@ -179,26 +179,6 @@ http://localhost:5173
 - Medical Education
 - AI-assisted Clinical Decision Support
 - Telemedicine Platforms
-
----
-
-# 📷 Screenshots
-
-## Home Page
-
-(Add Screenshot Here)
-
----
-
-## Prediction Page
-
-(Add Screenshot Here)
-
----
-
-## Result Page
-
-(Add Screenshot Here)
 
 ---
 
